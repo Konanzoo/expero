@@ -1,0 +1,8 @@
+/vendor/
+
+storage/*.key
+.env
+
+bootstrap/cache/*
+/mysql/*
+
