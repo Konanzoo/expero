@@ -1,8 +1,7 @@
 /vendor/
-
+/artisan/
 storage/*.key
 .env
 
 bootstrap/cache/*
-/mysql/*
 
